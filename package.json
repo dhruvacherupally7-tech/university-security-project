@@ -1,0 +1,12 @@
+{
+  "name": "university-log-security-system",
+  "version": "1.0.0",
+  "description": "AI-Based Intelligent University Log Pre-Processing, Threat Detection, and Automated Security Vulnerability Scanning System",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "author": "University Security SOC Team",
+  "license": "MIT"
+}
